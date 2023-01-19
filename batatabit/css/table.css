@@ -1,0 +1,26 @@
+.tablas {
+    display: flex;
+    flex-direction: row;
+    width: 930px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+ .card-section  {
+    display: grid;
+    flex-wrap: wrap;
+    width: 900px;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 auto;
+}
+
+.img-section--batatabit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.plans-container--slide {
+    justify-content: center;
+}
+
